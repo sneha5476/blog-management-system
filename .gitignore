@@ -1,0 +1,111 @@
+# =========================
+# Django
+# =========================
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# Media files
+media/
+
+# Static files collected for deployment
+staticfiles/
+
+
+# =========================
+# Django Environment
+# =========================
+
+# Virtual environments
+myenv/
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# =========================
+# Environment Variables
+# =========================
+
+.env
+.env.*
+
+
+# =========================
+# IDE / Editors
+# =========================
+
+.vscode/
+.idea/
+
+# VS Code settings
+*.code-workspace
+
+
+# =========================
+# Operating System
+# =========================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# =========================
+# Python
+# =========================
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage
+.coverage
+.coverage.*
+.pytest_cache/
+.tox/
+.nox/
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+
+# =========================
+# Jupyter Notebook
+# =========================
+
+.ipynb_checkpoints/
+
+
+# =========================
+# Ruff / Black
+# =========================
+
+.ruff_cache/
+
+
+# =========================
+# Logs
+# =========================
+
+*.log
