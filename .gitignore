@@ -9,11 +9,11 @@ __pycache__/
 local_settings.py
 
 # Database
-db.sqlite3
-db.sqlite3-journal
+#db.sqlite3
+#db.sqlite3-journal
 
 # Media files
-media/
+#media/
 
 # Static files collected for deployment
 staticfiles/
